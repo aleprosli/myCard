@@ -26,7 +26,7 @@
             <h4 class="text-2xl font-semibold">SOFTWARE ENGINEER</h4>
             <h6 class="text-xl font-semibold">aliff.rosli96@gmail.com</h6>
             <p class="mt-4 text-lg leading-relaxed text-blueGray-500">
-                A tech enthusiast person with experienced PC Builder. Skilled in PHP, Java, HTML, Troubleshooting, and Bootstrap. Strong entrepreneurship professional with a Bachelor's degree focused in Computer Science from Universiti Teknologi MARA. 
+                A dedicated <b>Software Engineer</b>, self-learning tech enthusiast person with experienced PC Builder. Skilled in LEMP Stack and Version Control (Git and Gitlab) with good Data-Structure, Object-Oriented Programming concept, and seek challenging problems with my Programming knowledge. Strong entrepreneurship professional with a Bachelor's degree focused in Computer Science from Universiti Teknologi MARA. 
                 Also an amateur e-sport player.
             </p>
             <ul class="list-none mt-6">
@@ -60,10 +60,19 @@
                     <h4 class="text-blueGray-500">Github</h4>
                     </div>
                 </div>
+                <li class="py-2">
+                <div class="text-center font-semibold">
+                  <div>
+                  <span class="text-xl font-semibold inline-block py-1 px-2 uppercase rounded-full text-black-600 bg-blue-300 mr-3"><i class="fas fa-arrow-down text-xl"></i></span>
+                  </div>
+                  <div>
+                  <a href="https://drive.google.com/file/d/1sOzA4Q6E388W5YEIzwpVV6oLiMdOohOJ/preview"><h4 class="text-blueGray-500"><b>[ RESUME ]</b></h4></a>
+                  </div>
+                </div>
+              </li>
             </ul>
 
             <div>
-                <h3 class="text-3xl text-center font-semibold">SOCMED</h3>
           
                 <div class="flex flex-wrap justify-center gap-2">
                   <a href="https://www.facebook.com/aleprosli/" class="bg-blue-500 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded">
@@ -87,10 +96,9 @@
                   </a>
                 </div>
               </div>
-            </div>
+
         </div>
         </div>
     </section>
-    
 
 </body>
