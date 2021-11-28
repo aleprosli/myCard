@@ -1,7 +1,9 @@
+
 <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 
 <!-- component -->
-<section>
+<section display:flex 
+>
 	<div class="bg-black text-white  md:flex h-screen p-20 ">
 		<div class="container mx-auto flex flex-col md:flex-row items-center my-12 md:my-24">
 			<div class="flex flex-col w-full lg:w-1/3 justify-center items-start p-8">
