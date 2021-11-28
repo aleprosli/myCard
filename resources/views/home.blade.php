@@ -2,7 +2,7 @@
 <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 
 <!-- component -->
-<section display:flex 
+<section 
 >
 	<div class="bg-black text-white  md:flex h-screen p-20 ">
 		<div class="container mx-auto flex flex-col md:flex-row items-center my-12 md:my-24">
