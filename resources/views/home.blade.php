@@ -10,14 +10,7 @@
 				<h1 class="text-3xl md:text-5xl p-2 text-yellow-300 tracking-loose">Aliff Rosli</h1>
 				<h2 class="text-3xl md:text-5xl leading-relaxed md:leading-snug mb-2">Software Engineer
 				</h2>
-				<p class="text-sm md:text-base text-gray-50 mb-4">A dedicated Software Engineer, self-learning tech enthusiast person with experienced PC Builder. Skilled in LEMP/LAMP Stack and Version Control (Git and Gitlab) with good Data-Structure, Object-Oriented Programming concept, and seek challenging problems with my Programming knowledge. Strong entrepreneurship professional with a Bachelor's degree focused in Computer Science from Universiti Teknologi MARA. Also an amateur e-sport player.</p>
-                <div class="shadow-md p-4 flex flex-row rounded-lg animate-bounce">
-                    <div class="bg-yellow-400 inline-block rounded-lg p-1 mr-1"></div>
-                    <b class="p-1">LAMP & LEMP Stack</b>
-                    <a class="h-5 w-5 text-gray-500 inline-block p-1">
-                    </a>
-                  </div>
-
+				<p class="text-sm md:text-base text-gray-50 mb-4">A dedicated Software Engineer, self-learning tech enthusiast person with experienced PC Builder.</p>
                   <div class="shadow-md p-4 flex flex-row rounded-lg animate-bounce">
                     <div class="bg-yellow-400 inline-block rounded-lg p-1 mr-1"></div>
                     <b class="p-1">Laravel</b>
@@ -38,7 +31,7 @@
                     <a class="h-5 w-5 text-gray-500 inline-block p-1">
                     </a>
                   </div>
-				<a href="https://drive.google.com/file/d/1sOzA4Q6E388W5YEIzwpVV6oLiMdOohOJ/preview"
+				<a href="https://drive.google.com/file/d/11HbsBG8F5QbUon7a96Iprv-DjdyeiD1p/view?usp=sharing"
 					class="bg-transparent hover:bg-yellow-300 text-yellow-300 hover:text-black rounded shadow hover:shadow-lg py-2 px-4 border border-yellow-300 hover:border-transparent">
 					Resume</a>
                         
